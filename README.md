@@ -1,5 +1,7 @@
 # SmartSplit - Effortless tracking , fair splitting
 SmartSplit is a full-stack expense tracking web app that helps users manage their finances, track daily expenses, split bills with friends, and get AI-powered suggestions to reduce unnecessary spending.
+# Link of my website:-
+https://smartsplit-ixow.vercel.app/
 # Features
 1.User can create  groups for roommates, trips, or events to keep expenses organized and fairly splitted.  
 2.Our algorithm minimises the number of payments when settling up.  
